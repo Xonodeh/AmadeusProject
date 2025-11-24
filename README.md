@@ -52,7 +52,7 @@ Ce projet a été construit pour explorer l'interaction homme-machine via C#.
 
 ### 1. Conversation Contextuelle & Persona
 L'IA n'est pas un chatbot générique. Elle utilise un **System Prompt** avancé pour :
-* Adopter la personnalité "Tsundere" et scientifique de Kurisu Makise.
+* Adopter la personnalité scientifique de Kurisu Makise.
 * Maintenir une mémoire de la conversation (historique de chat).
 * Réagir dynamiquement aux propos de l'utilisateur.
 
