@@ -40,7 +40,7 @@ Un assistant virtuel de bureau recréant le système **Amadeus** (basé sur le p
 
 Ce projet a été construit pour explorer l'interaction homme-machine via C#.
 
-* **Langage :** C# (.NET 6 / .NET 8)
+* **Langage :** C# (.NET 10)
 * **Framework UI :** WPF (Windows Presentation Foundation) pour la gestion avancée des médias et de la transparence.
 * **Cerveau (LLM) :** [Google Gemini 1.5 Flash API](https://ai.google.dev/) (via REST).
 * **Voix (TTS) :** [ElevenLabs API](https://elevenlabs.io/) (Clonage vocal neuronal).
