@@ -7,7 +7,25 @@
 
 Un assistant virtuel de bureau recréant le système **Amadeus** (basé sur le personnage de Kurisu Makise) de l'anime *Steins;Gate 0*. 
 
-Ce projet est une démonstration technique combinant le développement d'interface moderne (**WPF**), l'intelligence artificielle générative (**LLM**) et la synthèse vocale neuronale (**TTS**).
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/987518e7-23e5-4440-af16-a14a218bd37f" 
+       align="right" 
+       width="180" 
+       alt="Kurisu Amadeus" />
+
+  <p>
+    Ce projet est une démonstration technique combinant le développement d'interface moderne (<strong>WPF</strong>), 
+    l'intelligence artificielle générative (<strong>LLM</strong>) et la synthèse vocale neuronale (<strong>TTS</strong>).
+  </p>
+  
+  <p>
+    L'objectif est de recréer l'expérience utilisateur du système "Amadeus" en connectant des services cognitifs 
+    à une interface Desktop réactive en C#.
+  </p>
+</div>
+
+<br clear="all" />
+
 
 ---
 
